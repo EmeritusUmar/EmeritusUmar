@@ -1,6 +1,6 @@
 ### Hi there 👋, Umar Musa
 #### Front End Developer || UIUX Designer
-![Front End Developer || UIUX Designer](https://www.linkedin.com/in/umar-musa-581851194/overlay/background-image/)
+![Front End Developer || UIUX Designer]([https://www.linkedin.com/in/umar-musa-581851194/overlay/background-image/](https://media-exp1.licdn.com/dms/image/C4D16AQGBjGOlj4lHIQ/profile-displaybackgroundimage-shrink_350_1400/0/1661436183027?e=1666828800&v=beta&t=V7ryhj8xWFBaeTQgQYBWzrUGbvY56SKE4Y6cBVa_PTs))
 
 My name is Umar Musa. I’m a very ambitious front-end developer and a UIUX designer looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.
 
