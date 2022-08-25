@@ -1,5 +1,8 @@
+
 ### Hi there 👋, Umar Musa
 #### Front End Developer || UIUX Designer
+
+![Black Modern Minimal Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90206214/186715644-6753292e-84b6-496a-acbe-7c1d7fd96de3.png)
 
 
 My name is Umar Musa. I’m a very ambitious front-end developer and a UIUX designer looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.
