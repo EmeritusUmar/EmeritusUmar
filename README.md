@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Umar Musa
-#### Front End Developer || UIUX Designer
+#### Front End Developer
 
 ![Front end](https://user-images.githubusercontent.com/90206214/186716356-0e65af00-ece8-4ec4-8483-d1281b7e2425.png)
 
